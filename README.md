@@ -18,8 +18,8 @@ Installation
 1. Navigate to the project directory.
 1. Install dependencies:
 
-<span style="color: blue;">npm install</span>
+<span style="color: blue;"> - npm install</span>
 
 1. **Start the development server:**
 
-<span style="color: blue;">npm start</span>
+<span style="color: blue;"> - npm start</span>
